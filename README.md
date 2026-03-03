@@ -1,8 +1,8 @@
-Build With TRAE Hackathon Project
+<h2>Build With TRAE Hackathon Project</h2>
 
-Theme: Climate Tech Optimization Engines
+<h2>Theme: Climate Tech Optimization Engines</h2>
 
-📌 Problem Statement
+<h4>📌 Problem Statement</h4>
 
 Energy waste in institutional buildings occurs due to invisible inefficiencies such as:
 
@@ -18,7 +18,7 @@ No carbon impact simulation
 
 Most existing systems only monitor energy consumption but do not optimize it.
 
-💡 Our Solution
+<h4>💡 Our Solution</h4>
 
 EnergiAI is an AI-driven autonomous optimization engine that:
 
@@ -34,7 +34,7 @@ Generates actionable AI-based recommendations
 
 It transforms invisible energy waste into measurable climate action.
 
-🧠 System Architecture
+<h4>🧠 System Architecture</h4>
 
 EnergiAI follows a layered closed-loop architecture:
 
@@ -58,8 +58,8 @@ Continuous learning feedback improves future predictions.
 
 See: architecture_diagram.png
 
-🏗 Core Modules
-🔹 1. Data Processing Module
+<h4>🏗 Core Modules</h4>
+<h5>🔹 1. Data Processing Module</h5>
 
 Cleans dataset
 
@@ -69,7 +69,7 @@ Extracts hour & peak indicators
 
 Prepares features for AI models
 
-🔹 2. Forecasting Engine
+<h5>🔹 2. Forecasting Engine</h5>
 
 Predicts short-term energy demand
 
@@ -79,7 +79,7 @@ Provides baseline consumption forecast
 
 Technique: Time-based regression / Prophet
 
-🔹 3. Waste Detection Engine
+<h5>🔹 3. Waste Detection Engine</h5>
 
 Uses Isolation Forest
 
@@ -87,7 +87,7 @@ Detects abnormal consumption spikes
 
 Identifies standby and night waste
 
-🔹 4. Optimization Engine
+<h5>🔹 4. Optimization Engine</h5>
 
 Detects top 10% peak loads
 
@@ -97,7 +97,7 @@ Smooths demand curve
 
 Goal: Reduce peak load by 15–25%
 
-🔹 5. Carbon Impact Simulator
+<h5>🔹 5. Carbon Impact Simulator</h5>
 
 Calculates CO₂ emissions
 
@@ -107,7 +107,7 @@ Estimates carbon reduction percentage
 
 Emission factor: 0.82 kg CO₂ per kWh (configurable)
 
-🔹 6. What-If Simulation Engine
+<h5>🔹 6. What-If Simulation Engine</h5>
 
 Allows scenario simulation such as:
 
@@ -123,7 +123,7 @@ Carbon reduction
 
 Cost savings
 
-🔹 7. Recommendation Engine
+<h5>🔹 7. Recommendation Engine</h5>
 
 Generates AI-powered suggestions:
 
@@ -133,7 +133,7 @@ Shift high-energy operations
 
 Implement load smoothing
 
-🔹 8. Visualization Layer
+<h5>🔹 8. Visualization Layer</h5>
 
 Streamlit dashboard showing:
 
@@ -147,7 +147,7 @@ Carbon savings metrics
 
 KPI indicators
 
-🛠 Tech Stack
+<h4>🛠 Tech Stack</h4>
 
 Python
 
